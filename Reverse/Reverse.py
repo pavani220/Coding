@@ -7,7 +7,7 @@ while count>0:
    res=res+n[count-1]
    count-=1
 print(res)
-#input:cat
+#input:cat1
 #output:tac
 
 
