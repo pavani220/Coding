@@ -11,4 +11,4 @@ a="aAabb"
 print(convert_to_upper(a))
 
 #AAABB
-#use + for lowercase
+#use +32 for lowercase
