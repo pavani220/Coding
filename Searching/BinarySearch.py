@@ -15,4 +15,3 @@ arr=[1,2,5,2,9]
 target=5
 s=search(arr,target)
 print(s)
-    
