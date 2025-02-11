@@ -7,6 +7,6 @@ list.sort(reverse=True)
 print(list)'''
 
 #By length
-list = ['apple', 'banana', 'cherry', 'date']
+list = ['apple', 'banana', 'cherry']
 sorted_list = sorted(list, key=len, reverse=True)  # Sort by length in descending order
 print(sorted_list)
