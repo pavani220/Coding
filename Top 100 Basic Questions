@@ -1,0 +1,101 @@
+##coding questions top 100 basic 
+Reverse a string.
+Check if a string is a palindrome.
+Count the number of vowels in a string.
+Check if a number is prime.
+Find the factorial of a number.
+Convert a string to an integer.
+Convert an integer to a string.
+Check if a number is even or odd.
+Calculate the sum of digits of a number.
+Check if a number is a perfect square.
+Swap two numbers without using a third variable.
+Count the number of spaces in a sentence.
+Remove spaces from a string.
+Find the number of words in a string.
+Count the number of characters in a string.
+Remove all vowels from a string.
+Count the number of consonants in a string.
+Check if a number is a perfect number.
+Check if a number is an Armstrong number.
+Find the middle character(s) of a string.
+Count the number of uppercase and lowercase characters in a string.
+Calculate the power of a number (x^n).
+Print numbers in a specific range that are divisible by 3 and 5.
+Count the total number of digits in an integer.
+Find the product of digits of a number.
+Check if a number is a strong number.
+Find the square root of a number without using any library.
+Find the cube root of a number without using any library.
+Print a multiplication table for a given number.
+Find the largest prime number less than a given number.
+Reverse an integer without converting it to a string.
+Find the first non-repeating character in a string.
+Convert a binary number to decimal.
+Convert a decimal number to binary.
+Check if a number is a power of 2.
+Calculate the greatest common divisor (GCD) of two numbers.
+Calculate the least common multiple (LCM) of two numbers.
+Find the reverse of a number without using string conversion.
+Check if a number is a Fibonacci number.
+Count how many times a number appears in a string.
+Check if a number is divisible by 7.
+Count the number of uppercase letters in a string.
+Count the number of lowercase letters in a string.
+Convert a string to uppercase without using built-in functions.
+Convert a string to lowercase without using built-in functions.
+Calculate the factorial of a number recursively.
+Calculate the factorial of a number iteratively.
+Check if a string is a valid number.
+Print all prime numbers from 1 to N.
+Print all numbers in a range that are divisible by 5.
+Find the sum of digits of a given number until it’s a single digit.
+Check if a string contains only digits.
+Check if two strings are anagrams.
+Check if a string is a valid palindrome (ignoring spaces and punctuation).
+Find the largest divisor of a number.
+Calculate the number of seconds in a given number of hours, minutes, and seconds.
+Find the number of occurrences of a word in a sentence.
+Count the number of words starting with a vowel in a sentence.
+Remove all digits from a string.
+Count the number of digits in a number.
+Check if a given string is a valid email address.
+Find the sum of squares of the digits of a number.
+Find the sum of even numbers from 1 to N.
+Find the sum of odd numbers from 1 to N.
+Check if a string contains all letters of the alphabet.
+Find the GCD of more than two numbers.
+Find the length of a string without using the built-in length function.
+Convert a string to a list of words.
+Count the number of words in a string.
+Check if a string has balanced parentheses.
+Implement a basic Caesar cipher (shift characters by a given number).
+Check if a string is a valid palindrome (ignoring case).
+Convert an integer to Roman numerals.
+Convert Roman numerals to an integer.
+Reverse the words in a sentence.
+Count the number of characters in a string, excluding spaces.
+Check if two strings are rotations of each other.
+Count the number of occurrences of a character in a string.
+Print the Fibonacci series up to n terms.
+Print the sum of numbers in a given range.
+Check if a string is a valid URL.
+Find the highest and lowest number in a given string.
+Check if a string contains all unique characters.
+Replace all spaces in a string with a specific character.
+Create a program that tells you the zodiac sign based on your birth date.
+Check if a string is a valid hexadecimal number.
+Find the number of vowels in a string using regular expressions.
+Print numbers in reverse order.
+Find the sum of even and odd numbers from 1 to N.
+Count the number of words in a sentence starting with a vowel.
+Find the sum of squares of all numbers from 1 to N.
+Check if a string is a valid phone number.
+Implement a function that removes all special characters from a string.
+Count the number of digits in a number.
+Find the sum of all divisors of a number.
+Determine whether a string is a valid palindrome number.
+Remove all duplicate characters from a string.
+Check if a string contains only letters and digits.
+Implement a program to reverse the words in a sentence.
+Check if a string contains a specific substring.
